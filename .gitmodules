@@ -31,3 +31,6 @@
 [submodule "bundle/kotlin-vim"]
 	path = bundle/kotlin-vim
 	url = https://github.com/udalov/kotlin-vim
+[submodule "bundle/vim-beancount"]
+	path = bundle/vim-beancount
+	url = https://github.com/nathangrigg/vim-beancount.git
